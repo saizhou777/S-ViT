@@ -1,2 +1,2 @@
 # S-ViT
-The code will be released soon.
+The code is under organized and will be released soon.
